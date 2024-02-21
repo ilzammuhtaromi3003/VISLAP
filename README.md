@@ -1,4 +1,4 @@
-![Vislap Service](https://github.com/ilzammuhtaromi3003/VISLAP/assets/106060919/3585bd4f-dff6-4135-b9f6-70a1f54f5087)# essentials
+# essentials
 
 ## Project setup
 
